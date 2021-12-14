@@ -1,3 +1,4 @@
+//cada navio contém um array de strings que representam os títulos de suas imagens horizontais e um de strings que representam os títulos de suas imagens verticais.
 const N1 = {
 	tam: 1,
 	imgsHor: ['subhrz'],
